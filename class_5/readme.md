@@ -1,0 +1,1 @@
+only discuss about monolithic and micro service
